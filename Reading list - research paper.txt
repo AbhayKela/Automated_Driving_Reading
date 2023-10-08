@@ -1,0 +1,14 @@
+Read research paper on:
+- Lane change assist
+- Lane departure warning
+- rear parking aid 
+- rear crossing traffic alert 
+- back up aid
+- rear crash collision warning
+- Rear parking assist
+- blind spot detection 
+- side impact
+- Adaptive cruise control
+- Autonomous emergency braking
+- Collision mitigation
+- Stop & go
